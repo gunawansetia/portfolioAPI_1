@@ -2,6 +2,6 @@
     "hero" :{
         "title": "I'M Gunawan Setia Wiguna",
         "paragraph": "My role is a front-end developer. This website is the first of my portfolio as a front-end Developer.",
-        "picture" : "/my-portfolio-1/public/images/Programming-rafiki.svg"
+        "picture" : "images/Programming-rafiki.svg"
     }
 }
